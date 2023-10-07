@@ -12,3 +12,10 @@ Genero: Hombre
 Estatura: 1.73
 Telefono: 9762536
 
+Nombres: Ricardo
+Apellidos: Cruz
+Edad: 20
+Genero: Hombre
+Estatura: 1.73
+Telefono: 9611668107
+
